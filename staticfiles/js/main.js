@@ -19,6 +19,7 @@
     window.scrollY > 100 ? selectBody.classList.add('scrolled') : selectBody.classList.remove('scrolled');
   }
 
+
   document.addEventListener('scroll', toggleScrolled);
   window.addEventListener('load', toggleScrolled);
 
@@ -36,6 +37,7 @@
     mobileNavToggleBtn.addEventListener('click', mobileNavToogle);
   }
 
+  
   /**
    * Hide mobile nav on same-page/hash links
    */

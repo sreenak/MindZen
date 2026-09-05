@@ -5,7 +5,7 @@ Live URL
 
 
 <h2 align="left">Hi 👋! My name is Sreena K and I'm a Full Stack Developer</h2>
-
+This is Python Django website for Minzen company  
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
@@ -42,8 +42,8 @@ Live URL
 </div>
 
 ###
-
-# React + Vite
+ 
+ # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
